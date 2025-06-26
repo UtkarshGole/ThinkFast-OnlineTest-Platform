@@ -1,0 +1,6 @@
+Developed a weather application that provides real-time weather updates based on the user's location or a searched city name.
+	Integrated with API to fetch weather data, including temperature, humidity, wind speed, and weather conditions.
+	Implemented features such as:
+	Current Weather: Display real-time weather information with a clean, user-friendly interface.
+	Search Functionality: Allow users to search for weather information by city name.
+	Designed the front-end interface to be intuitive and responsive, ensuring smooth user experience across different devices.
