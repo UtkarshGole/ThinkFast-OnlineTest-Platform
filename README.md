@@ -6,30 +6,37 @@ It allows students to take online tests and enables admins to manage questions, 
 📌 Features
 👨‍🎓 Student Module
 
-Student registration & login
-Attempt online tests
+1. Student registration & login
 
-Timer-based exams
+2. Attempt online tests
 
-Auto-evaluation of answers
+3. Timer-based exams
 
-View test results instantly
+4. Auto-evaluation of answers
+
+5. View test results instantly
 
 🛠️ Admin Module
 
-Admin login
+1. Admin login
 
-Add, update, and delete questions
+2. Add, update, and delete questions
 
-Manage student records
+3. Manage student records
 
-View student performance and results
+4. View student performance and results
 
 🧰 Tech Stack
 Layer	Technology
+
 Frontend	HTML, CSS, JSP
+
 Backend	Java Servlets
+
 Database	SQL*PlUS (Oracle)
+
 Database Connectivity	JDBC
+
 Server	Apache Tomcat
+
 IDE	Eclipse 
