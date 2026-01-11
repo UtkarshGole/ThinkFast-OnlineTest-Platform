@@ -7,7 +7,6 @@ It allows students to take online tests and enables admins to manage questions, 
 👨‍🎓 Student Module
 
 Student registration & login
-
 Attempt online tests
 
 Timer-based exams
