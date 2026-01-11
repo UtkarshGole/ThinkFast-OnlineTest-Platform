@@ -29,14 +29,14 @@ It allows students to take online tests and enables admins to manage questions, 
 🧰 Tech Stack
 Layer	Technology
 
-Frontend	HTML, CSS, JSP
+Frontend  :  HTML, CSS, JSP
 
-Backend	Java Servlets
+Backend   :  Java Servlets
 
-Database	SQL*PlUS (Oracle)
+Database  :  SQL*PlUS (Oracle)
 
-Database Connectivity	JDBC
+Database  :  Connectivity	JDBC
 
-Server	Apache Tomcat
+Server    :  Apache Tomcat
 
-IDE	Eclipse 
+IDE       :  Eclipse 
