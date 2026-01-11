@@ -9,15 +9,21 @@ It allows students to take online tests and enables admins to manage questions, 
 Student registration & login
 
 Attempt online tests
+
 Timer-based exams
+
 Auto-evaluation of answers
+
 View test results instantly
 
 🛠️ Admin Module
 
 Admin login
+
 Add, update, and delete questions
+
 Manage student records
+
 View student performance and results
 
 🧰 Tech Stack
