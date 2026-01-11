@@ -35,7 +35,7 @@ Backend   :  Java Servlets
 
 Database  :  SQL*PlUS (Oracle)
 
-Database  :  Connectivity	JDBC
+Database Connectivity :	JDBC
 
 Server    :  Apache Tomcat
 
